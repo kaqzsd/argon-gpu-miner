@@ -1,0 +1,4 @@
+argon2-cffi==25.1.0
+requests==2.34.2
+numpy>=1.26,<3
+pyopencl==2026.1.4

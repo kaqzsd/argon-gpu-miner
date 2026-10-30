@@ -1,0 +1,11 @@
+.venv/
+.test-venv/
+wheelhouse/
+runtime/
+dist/
+config.json
+*.log
+*.pyc
+__pycache__/
+.DS_Store
+.env
